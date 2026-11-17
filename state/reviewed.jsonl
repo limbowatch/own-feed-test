@@ -32974,6 +32974,7 @@
 {"cve_id":"CVE-2019-18817","ghsa_id":"GHSA-vc7h-cmp3-4hw5","origin_repo":null,"reviewed_at":"2023-10-19T18:09:28Z"}
 {"cve_id":"CVE-2024-39323","ghsa_id":"GHSA-vc7j-99jw-jrqm","origin_repo":"aimeos/ai-admin-graphql","reviewed_at":"2024-07-02T21:20:33Z"}
 {"cve_id":"CVE-2023-38691","ghsa_id":"GHSA-vc7j-h8xg-fv5x","origin_repo":"matrix-org/matrix-appservice-bridge","reviewed_at":"2023-08-04T17:26:32Z"}
+{"cve_id":"CVE-2026-119351","ghsa_id":"GHSA-vc7v-qv4w-wrv8","origin_repo":"vercel/next.js","reviewed_at":"2026-11-17T16:13:26Z"}
 {"cve_id":"CVE-2026-29182","ghsa_id":"GHSA-vc89-5g3r-cmhh","origin_repo":"parse-community/parse-server","reviewed_at":"2026-03-05T00:33:18Z"}
 {"cve_id":"CVE-2022-21653","ghsa_id":"GHSA-vc89-hccf-rq55","origin_repo":"typelevel/jawn","reviewed_at":"2022-01-06T20:19:30Z"}
 {"cve_id":"CVE-2026-24116","ghsa_id":"GHSA-vc8c-j3xm-xj73","origin_repo":"bytecodealliance/wasmtime","reviewed_at":"2026-01-27T00:48:20Z"}

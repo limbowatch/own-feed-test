@@ -1,0 +1,24 @@
+{"cve_id":"CVE-2019-1010142","enriched":true,"fetched_at":"2026-11-17T09:47:59Z","status":"Modified"}
+{"cve_id":"CVE-2022-34169","enriched":true,"fetched_at":"2026-11-17T09:48:06Z","status":"Modified"}
+{"cve_id":"CVE-2023-48230","enriched":true,"fetched_at":"2026-11-17T09:48:12Z","status":"Modified"}
+{"cve_id":"CVE-2026-110879","enriched":false,"fetched_at":"2026-11-17T09:48:19Z","status":"Awaiting Analysis"}
+{"cve_id":"CVE-2026-110910","enriched":false,"fetched_at":"2026-11-17T09:48:25Z","status":"Awaiting Analysis"}
+{"cve_id":"CVE-2026-116592","enriched":false,"fetched_at":"2026-11-17T09:48:32Z","status":"Awaiting Analysis"}
+{"cve_id":"CVE-2026-116630","enriched":false,"fetched_at":"2026-11-17T09:48:38Z","status":"Awaiting Analysis"}
+{"cve_id":"CVE-2026-120222","enriched":false,"fetched_at":"2026-11-17T09:48:45Z","status":"Awaiting Analysis"}
+{"cve_id":"CVE-2026-120415","enriched":false,"fetched_at":"2026-11-17T09:48:51Z","status":"Awaiting Analysis"}
+{"cve_id":"CVE-2026-120423","enriched":false,"fetched_at":"2026-11-17T09:48:58Z","status":"Awaiting Analysis"}
+{"cve_id":"CVE-2026-120474","enriched":false,"fetched_at":"2026-11-17T09:49:04Z","status":"Awaiting Analysis"}
+{"cve_id":"CVE-2026-58207","enriched":true,"fetched_at":"2026-11-17T09:49:11Z","status":"Analyzed"}
+{"cve_id":"CVE-2026-58208","enriched":true,"fetched_at":"2026-11-17T09:49:17Z","status":"Analyzed"}
+{"cve_id":"CVE-2026-58209","enriched":true,"fetched_at":"2026-11-17T09:49:24Z","status":"Analyzed"}
+{"cve_id":"CVE-2026-58210","enriched":true,"fetched_at":"2026-11-17T09:49:30Z","status":"Analyzed"}
+{"cve_id":"CVE-2026-58211","enriched":true,"fetched_at":"2026-11-17T09:49:37Z","status":"Analyzed"}
+{"cve_id":"CVE-2026-58213","enriched":true,"fetched_at":"2026-11-17T09:49:43Z","status":"Analyzed"}
+{"cve_id":"CVE-2026-58214","enriched":true,"fetched_at":"2026-11-17T09:49:50Z","status":"Analyzed"}
+{"cve_id":"CVE-2026-58250","enriched":true,"fetched_at":"2026-11-17T09:50:01Z","status":"Analyzed"}
+{"cve_id":"CVE-2026-58251","enriched":true,"fetched_at":"2026-11-17T09:50:03Z","status":"Analyzed"}
+{"cve_id":"CVE-2026-58252","enriched":true,"fetched_at":"2026-11-17T09:50:10Z","status":"Analyzed"}
+{"cve_id":"CVE-2026-58253","enriched":true,"fetched_at":"2026-11-17T09:50:16Z","status":"Analyzed"}
+{"cve_id":"CVE-2026-58254","enriched":true,"fetched_at":"2026-11-17T09:50:22Z","status":"Analyzed"}
+{"cve_id":"CVE-2026-68498","enriched":false,"fetched_at":"2026-11-17T09:50:29Z","status":"Deferred"}

@@ -1,0 +1,9 @@
+{"etag":"W/\"c1cfdbad5c1bae9de86262056ca24a63\"","key":"maven:com.fasterxml.jackson.core:jackson-annotations","updated":"2026-11-08T00:01:16Z"}
+{"etag":"W/\"651796f463d93f697b24fcafce23b23e\"","key":"maven:com.fasterxml.jackson.core:jackson-core","updated":"2026-11-08T00:17:33Z"}
+{"etag":"W/\"5f416dae741549c0dc74ac9cce43223c\"","key":"maven:com.fasterxml.jackson.core:jackson-databind","updated":"2026-11-08T00:37:44Z"}
+{"etag":"W/\"6dcd91dac88bb86b837b0ce4ae3df386\"","key":"maven:com.google.guava:failureaccess","updated":"2025-03-19T16:20:49Z"}
+{"etag":"W/\"33992c13336f5ef79fd144c5619c7df3\"","key":"maven:com.google.guava:guava","updated":"2026-11-02T18:07:48Z"}
+{"etag":"W/\"51204b66f2cd4bacb2358da1f52ad0e9\"","key":"maven:com.google.guava:guava-gwt","updated":"2026-11-02T18:07:46Z"}
+{"etag":"W/\"31ff7d89ce42f8da6a39ab64b1aa05aa\"","key":"maven:com.google.guava:guava-testlib","updated":"2026-11-02T18:07:50Z"}
+{"etag":"W/\"fa723f500c61eea041e6230ecee6f634\"","key":"maven:com.google.guava:guava-tests","updated":"2017-10-26T20:22:47Z"}
+{"etag":"W/\"b5c1bf911301d8dd1746d16a0d0170cd\"","key":"maven:com.google.guava:listenablefuture","updated":"2018-09-11T19:44:11Z"}

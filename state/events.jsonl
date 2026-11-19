@@ -70,6 +70,7 @@
 {"at":"2026-11-17T09:50:29Z","event":"first seen","ghsa_id":"GHSA-32jm-mf7r-7qw5","id":163}
 {"at":"2026-11-17T09:50:29Z","event":"first seen","ghsa_id":"GHSA-88rq-mq4v-frmm","id":164}
 {"at":"2026-11-17T09:50:29Z","event":"first seen","ghsa_id":"GHSA-cx24-f932-rr55","id":165}
+{"at":"2026-11-19T10:33:36Z","event":"in limbo -> reviewed","ghsa_id":"GHSA-5hrj-7fc3-cmx9","id":166}
 {"at":"2026-11-17T09:50:29Z","event":"first seen","ghsa_id":"GHSA-mf72-w5mg-h2mg","id":16}
 {"at":"2026-11-17T09:50:29Z","event":"first seen","ghsa_id":"GHSA-8xmc-886f-g496","id":17}
 {"at":"2026-11-17T09:50:29Z","event":"first seen","ghsa_id":"GHSA-65q4-982r-rm5c","id":18}
